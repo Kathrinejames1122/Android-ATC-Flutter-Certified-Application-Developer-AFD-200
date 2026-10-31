@@ -50,8 +50,6 @@ The following knowledge areas are organized from Android ATC's AFD-200 course ou
 
 ## Certification Path
 
-The following is a suggested learning progression for AFD-200 candidates, not an official prerequisite or multi-level certification pathway.
-
 ```mermaid
 flowchart LR
     A[Dart Programming Fundamentals] --> B[Flutter Application Development]
